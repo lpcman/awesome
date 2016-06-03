@@ -20,3 +20,5 @@ awesome plugins for web project.
 ### https://jqueryvalidation.org/
 ## 8. jquery ztree 3.5.23
 ### https://github.com/zTree/zTree_v3
+## 9. jquery clock picker
+### http://weareoutman.github.io/clockpicker/
