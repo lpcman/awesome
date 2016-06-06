@@ -22,3 +22,5 @@ awesome plugins for web project.
 ### https://github.com/zTree/zTree_v3
 ## 9. jquery clock picker
 ### http://weareoutman.github.io/clockpicker/
+## 10. jquery choosen
+### http://harvesthq.github.io/chosen/
